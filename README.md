@@ -3,7 +3,7 @@
   <img align="left" alt="Ankur's LinkedIN" width="22px" src="https://avatars.githubusercontent.com/u/84175354?v=4" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=qmigo.qmigo)
 
 <br />
 
